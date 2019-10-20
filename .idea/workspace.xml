@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e600f4c2-85ad-4b44-b0ff-cde8b86584a3" name="Default Changelist" comment="" />
+    <list default="true" id="e600f4c2-85ad-4b44-b0ff-cde8b86584a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/multithreading$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/multithreading$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/multithreading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/multithreadingusingthreadclass$NewThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/multithreadingusingthreadclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/throughput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/throughput.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +24,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SLgiVA08ZSoAPeLMJTWhNMEoFz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -75,5 +89,16 @@
       <updated>1571348416057</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

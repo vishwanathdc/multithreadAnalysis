@@ -12,7 +12,7 @@ import java.util.concurrent.Executors;
 
 public class throughput {
     private static final String INPUT_FILE = "resources/throughput/war_and_peace.txt";
-    private static final int NUMBER_OF_THREADS = 8;
+    private static final int NUMBER_OF_THREADS = 12;
     public static void main(String[] args) throws IOException {
         String text = new String(Files.readAllBytes(Paths.get(INPUT_FILE)));
         startServer(text);
